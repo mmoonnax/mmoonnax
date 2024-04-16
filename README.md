@@ -21,6 +21,5 @@
   <a href = "mailto: luhmena05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/mmoonnax/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luana-brisola-mena-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <img align="center" alt="Lua-Cat" height="250" width="300" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-85.gif">
 </div>
- 
