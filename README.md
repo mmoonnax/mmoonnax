@@ -1,8 +1,7 @@
 ### Hello there 💕 Welcome to my GitHub profile.
 ### Here you'll find a collection of my projects and contributions. Feel free to explore and get in touch. I look forward to collaborating and learning together!👌
 
-- 🌱 I’m currently learning data structures in Python.
-- 📫 How to reach me: luhmena05@gmail.com
+- 🌱 I’m currently learning data structures in Python
 - 😄 Pronouns: she/her
 <div style="display: inline_block"><br>
    <img align="center" alt="Lua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
