@@ -1,6 +1,6 @@
-### Hello there 💕 Welcome to my GitHub profile.
-### Here you'll find a collection of my projects and contributions. Feel free to explore and get in touch. I look forward to collaborating and learning together!👌
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon&size=19&pause=1000&color=F7ABDB&random=false&width=475&lines=+Hello+there!+Welcome+to+my+profile.%F0%9F%92%95;Ol%C3%A1!+Bem-vindo+ao+meu+perfil.+%F0%9F%92%95;Hallo!+Willkommen+auf+meinem+Profil.+%F0%9F%92%95;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E7%A7%81%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82+%F0%9F%92%95;Bonjour!+Bienvenue+sur+mon+profil.+%F0%9F%92%95;%EC%95%88%EB%85%95!+%EB%82%B4+%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4.+%F0%9F%92%95;%C2%A1Hola!+Bienvenido+a+mi+perfil.+%F0%9F%92%95)](https://git.io/typing-svg)
 
+Here you'll find a collection of my projects and contributions. Feel free to explore and get in touch. I look forward to collaborating and learning together!👌
 - 🌱 I’m currently learning data structures in Python
 - 😄 Pronouns: she/her
 - 😻 I love cats
