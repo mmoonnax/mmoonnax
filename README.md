@@ -14,6 +14,7 @@ Here you'll find a collection of my projects and contributions. Feel free to exp
    <img align="center" alt="Lua-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
    <img align="center" alt="Lua-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">  
    <img align="center" alt="Lua-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"> 
+   <img align="center" alt="Lua-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> 
 </div>
 
   ### 
